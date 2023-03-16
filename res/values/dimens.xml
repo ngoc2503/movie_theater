@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">15dp</dimen>
+    <dimen name="padding_dialog">30dp</dimen>
+    <dimen name="img_size">130dp</dimen>
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="margin_top">10dp</dimen>
+    <dimen name="margin_bottom">20dp</dimen>
+    <dimen name="layout_height_title">40dp</dimen>
+    <dimen name="laout_height_price">18dp</dimen>
+    <dimen name="image_profile">200dp</dimen>
+</resources>

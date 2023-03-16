@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movies Store</string>
+    <string name="profile">Profile</string>
+    <string name="exit">Exit</string>
+    <string name="facebook_app_id">1504881563048567</string>
+    <string name="fb_login_protocol_scheme">fb1504881563048567</string>
+
+
+</resources>
